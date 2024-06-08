@@ -64,3 +64,7 @@ A descrição do modelo e suas aplicações estão disponível na quarta Nota T�
     - 7.4.	Valor do serviço e déficit de polinização para os municípios paulistas considerando o cultivo do café
     - 7.5.	Valor do serviço e déficit de polinização para os municípios paulistas considerando o cultivo de citrus
     - 7.6.	Valor do serviço e déficit de polinização para os municípios paulistas considerando outros cultivos perenes
+
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
