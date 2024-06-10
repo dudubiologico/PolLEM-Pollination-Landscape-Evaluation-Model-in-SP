@@ -131,6 +131,10 @@ Camadas vetoriais (Shapefile)
 
 ###Referências
 Metzger, J.P., Villarreal-Rosas, J., Suárez-Castro, A.F., López-Cubillos, S., González-Chaves, A., Runting, R.K., Hohlenwerger, C. and Rhodes, J.R., 2021. Considering landscape-level processes in ecosystem service assessments. Science of The Total Environment, 796, p.149028. https://doi.org/10.1016/j.scitotenv.2021.149028
+
 Lang, N., Jetz, W., Schindler, K. and Wegner, J.D., 2023. A high-resolution canopy height model of the Earth. Nature Ecology & Evolution, 7(11), pp.1778-1789. https://doi.org/10.1038/s41559-023-02206-6
+
 Siopa, C., Carvalheiro, L.G., Castro, H., Loureiro, J. and Castro, S., 2024. Animal‐pollinated crops and cultivars—A quantitative assessment of pollinator dependence values and evaluation of methodological approaches. Journal of Applied Ecology. https://doi.org/10.1111/1365-2664.14634
+
 Stein, A., Gerstner, K. and Kreft, H., 2014. Environmental heterogeneity as a universal driver of species richness across taxa, biomes and spatial scales. Ecology letters, 17(7), pp.866-880. https://doi.org/10.1111/ele.12277
+
