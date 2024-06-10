@@ -13,11 +13,8 @@ Autores
 O objetivo deste repositório é apresentar resultados de um modelo espacialmente explícito da provisão potencial de polinização baseado na estrutura de oferta, fluxo e demanda, proposta por Metzger et al. (2021), bem como valorar esse serviço para a produção agrícola do estado de São Paulo. Esse modelo, desenvolvido no âmbito do programa Biota Síntese, supera muitas das deficiências das abordagens tradicionais ao estimar o fornecimento de polinização. O modelo foi elaborado e aplicado para todo o estado de São Paulo, de forma a possibilitar a identificação de possíveis aderências e desafios para a incorporação e utilização do modelo em políticas públicas paulistas.
 
 ## Sobre o modelo
-O detalhamento sobre o funcionamento interno deste modelo pode ser encontrado no arquivo Detalhe_Modelo deste repositório.
-
-
-##
 A descrição do modelo e suas aplicações estão disponível na quarta Nota Técnico-científica do Projeto Biota Síntese (Autores: Eduardo Freitas Moreira, Luara Tourinho, Rafael Chaves, Danilo Boscolo).
+O detalhamento sobre o funcionamento interno deste modelo pode ser encontrado no arquivo Detalhe_Modelo neste repositório.
 # 
 
 
