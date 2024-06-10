@@ -2,19 +2,20 @@
 Autores
 <code>Eduardo Freitas Moreira&sup1; *, Luara Tourinho&sup1; , Rafael Chaves&sup2; , Danilo Boscolo&sup1;&sup3; </code>
 
+<img align="right" width="250"  src="imagens/biotasintese.png">
+
 <sup>1 - Instituto de Estudos Avançados, Universidade de São Paulo;
 2 - SEMIL - Secretaria de Meio Ambiente, Infraestrutura e Logística de SP;
 3 - Departamento de Biologia da Faculdade de Filosofia Ciências e Letras de Ribeirão, Universidade de São Paulo<sup>
 
-<img align="right" width="250"  src="imagens/biotasintese.png">
 
 <sup>*Autor correspondente: efmoreira@usp.br<sup>
 
 O objetivo deste repositório é apresentar resultados de um modelo espacialmente explícito da provisão potencial de polinização baseado na estrutura de oferta, fluxo e demanda, proposta por Metzger et al. (2021), bem como valorar esse serviço para a produção agrícola do estado de São Paulo. Esse modelo, desenvolvido no âmbito do programa Biota Síntese, supera muitas das deficiências das abordagens tradicionais ao estimar o fornecimento de polinização. O modelo foi elaborado e aplicado para todo o estado de São Paulo, de forma a possibilitar a identificação de possíveis aderências e desafios para a incorporação e utilização do modelo em políticas públicas paulistas.
 
 ## Sobre o modelo
-A descrição do modelo e suas aplicações estão disponível na quarta Nota Técnico-científica do Projeto Biota Síntese (Autores: Eduardo Freitas Moreira, Luara Tourinho, Rafael Chaves, Danilo Boscolo).
-O detalhamento sobre o funcionamento interno deste modelo pode ser encontrado no arquivo Detalhe_Modelo neste repositório.
+- A descrição do modelo e suas aplicações estão disponível na quarta Nota Técnico-científica do Projeto Biota Síntese (Autores: Eduardo Freitas Moreira, Luara Tourinho, Rafael Chaves, Danilo Boscolo).
+- O detalhamento sobre o funcionamento interno deste modelo pode ser encontrado no arquivo Detalhe_Modelo neste repositório.
 # 
 
 
