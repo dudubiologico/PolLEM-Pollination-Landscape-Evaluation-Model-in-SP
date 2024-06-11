@@ -20,24 +20,26 @@ O objetivo deste repositório é apresentar resultados de um modelo espacialment
 
 
 ## Dados incluídos neste repositório:
+Todas as camadas abaixo podem ser acessadas através do arquivo [ArquivosBasePOLLEEMv1beta](ArquivosBasePOLLEEMv1beta.rar), disponível neste repositório.
+Para acessar as camadas, baixe o arquivo .rar em seu computador e faça a descompactação. Você pode utilizar o descompactador mais conveninete, mas ná sugerimos o [WinRAR](https://www.win-rar.com/).
+
 ### Camadas raster (GeoTIFF):
 1.	Camadas de base
     - 1.1.	Buffer de 20km do limite de São Paulo
     - 1.2.	Área de vegetação nativa (binário, 0 e 1)
-    - 1.3.	Área de cultivos dependentes (binário, 0 e 1)
-    - 1.4.	Área de cultivo de soja (binário, 0 e 1)
-    - 1.5.	Área de cultivo das outras culturas temporárias (binário, 0 e 1)
-    - 1.6.	Área de cultivo de café (binário, 0 e 1)
-    - 1.7.	Área de cultivo de citrus (binário, 0 e 1)
-    - 1.8.	Área de cultivo das outras culturas perenes (binário, 0 e 1)
-    - 1.9.	Média da diversidade Shannon da paisagem
-    - 1.10.	Média da Proporção de vegetação nativa
-    - 1.11.	Altura máxima do dossel
-    - 1.12.	Valor máximo de NDVI
+    - 1.3.	Média da diversidade Shannon da paisagem
+    - 1.4.	Média da Proporção de vegetação nativa
+    - 1.5.	Altura máxima do dossel
+    - 1.6.	Valor máximo de NDVI
 
 2.	Oferta e fluxo de polinizadores
     - 2.1.	Oferta de polinizadores normalizado (intervalo de 0 a 1)
-    - 2.2.	Fluxo de polinizadores normalizado (intervalo de 0 a 1)
+    - 2.2.	Fluxo de polinizadores para todos os cultivos normalizado (intervalo de 0 a 1)
+    - 2.3.	Fluxo de polinizadores para a soja normalizado (intervalo de 0 a 1)
+    - 2.4.	Fluxo de polinizadores para outros cultivos temporários normalizado (intervalo de 0 a 1)
+    - 2.5.	Fluxo de polinizadores para o café normalizado (intervalo de 0 a 1)
+    - 2.6.	Fluxo de polinizadores para o citrus normalizado (intervalo de 0 a 1)
+    - 2.7.	Fluxo de polinizadores para outros cultivos perenes normalizado (intervalo de 0 a 1)
 
 3.	Demanda de polinizadores:
     - 3.1.	Demanda de polinizadores de todos os cultivos combinados (intervalo de 0 a 1)
@@ -65,16 +67,15 @@ O objetivo deste repositório é apresentar resultados de um modelo espacialment
 
 ### Camadas vetoriais (Shapefile)
 6.	Unidade Hidrográfica de Gerenciamento de Recursos Hídricos (UGRHI):
-    - 6.1.	Soma média e desvio padrão da oferta de polinizadores nas UGRHI do estado de São Paulo
-    - 6.2.	Soma média e desvio padrão do serviço e déficit de polinização nas Unidade Hidrográfica de Gerenciamento de Recursos Hídricos (UGRHI) do estado de São Paulo
+    - 6.1.	Soma média e desvio padrão do serviço de polinização nas Unidade Hidrográfica de Gerenciamento de Recursos Hídricos (UGRHI) do estado de São Paulo
+    - 6.2.	Soma média e desvio padrão do déficit de serviço de polinização nas Unidade Hidrográfica de Gerenciamento de Recursos Hídricos (UGRHI) do estado de São Paulo
 
 7.	Valor do serviço de polinização (ano de referência 2022):
-    - 7.1.	Valor do serviço e déficit de polinização para os municípios paulistas considerando todos os cultivos dependentes de polinização
-    - 7.2.	Valor do serviço e déficit de polinização para os municípios paulistas considerando o cultivo da soja
-    - 7.3.	Valor do serviço e déficit de polinização para os municípios paulistas considerando outros cultivos temporários
-    - 7.4.	Valor do serviço e déficit de polinização para os municípios paulistas considerando o cultivo do café
-    - 7.5.	Valor do serviço e déficit de polinização para os municípios paulistas considerando o cultivo de citrus
-    - 7.6.	Valor do serviço e déficit de polinização para os municípios paulistas considerando outros cultivos perenes
+    - 7.1.	Valor do serviço e déficit de polinização para os municípios paulistas considerando o cultivo da soja
+    - 7.2.	Valor do serviço e déficit de polinização para os municípios paulistas considerando outros cultivos temporários
+    - 7.3.	Valor do serviço e déficit de polinização para os municípios paulistas considerando o cultivo do café
+    - 7.4.	Valor do serviço e déficit de polinização para os municípios paulistas considerando o cultivo de citrus
+    - 7.5.	Valor do serviço e déficit de polinização para os municípios paulistas considerando outros cultivos perenes
 
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
