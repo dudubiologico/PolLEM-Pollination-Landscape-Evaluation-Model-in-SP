@@ -1,6 +1,6 @@
 # PolLEM SP - Pollination Landscape Evaluation Model in São Paulo (Modelo de Avaliação da Polinização na Paisagem em São Paulo).
 
-<img align="right" width="250"  src="imagens/biotasintese.png">
+<img align="right" width="250"  src="imagens/biotasintese.png">(https://biotasintese.iea.usp.br/pt/)
 
 Autores
 Eduardo Freitas Moreira&sup1; *, Luara Tourinho&sup1; , Rafael Chaves&sup2; , Danilo Boscolo&sup1;&sup3;
@@ -12,7 +12,7 @@ Eduardo Freitas Moreira&sup1; *, Luara Tourinho&sup1; , Rafael Chaves&sup2; , Da
 
 <sup>*Autor correspondente: efmoreira@usp.br<sup>
 
-O objetivo deste repositório é apresentar resultados de um modelo espacialmente explícito da provisão potencial de polinização baseado na estrutura de oferta, fluxo e demanda, proposta por Metzger et al. (2021), bem como valorar esse serviço para a produção agrícola do estado de São Paulo. Esse modelo, desenvolvido no âmbito do programa Biota Síntese, supera muitas das deficiências das abordagens tradicionais ao estimar o fornecimento de polinização. O modelo foi elaborado e aplicado para todo o estado de São Paulo, de forma a possibilitar a identificação de possíveis aderências e desafios para a incorporação e utilização do modelo em políticas públicas paulistas.
+O objetivo deste repositório é apresentar resultados de um modelo espacialmente explícito da provisão potencial de polinização baseado na estrutura de oferta, fluxo e demanda, proposta por Metzger et al. (2021), bem como valorar esse serviço para a produção agrícola do estado de São Paulo. Esse modelo, desenvolvido no âmbito do programa [Biota Síntese](https://biotasintese.iea.usp.br/pt/), supera muitas das deficiências das abordagens tradicionais ao estimar o fornecimento de polinização. O modelo foi elaborado e aplicado para todo o estado de São Paulo, de forma a possibilitar a identificação de possíveis aderências e desafios para a incorporação e utilização do modelo em políticas públicas paulistas.
 
 
 
@@ -24,6 +24,7 @@ O objetivo deste repositório é apresentar resultados de um modelo espacialment
 
 ## Dados incluídos neste repositório:
 Todas as camadas abaixo podem ser acessadas através do arquivo [ArquivosBasePOLLEEMv1beta](ArquivosBasePOLLEEMv1beta.rar), disponível neste repositório.
+A camada base de cobertura e uso da terra utilizada para gerar esses resultados pode ser acessada através da [Coleção 8 do MapBiomas (2022)](https://storage.googleapis.com/mapbiomas-public/initiatives/brasil/collection_8/lclu/coverage/brasil_coverage_2022.tif)
 Para acessar as camadas, baixe o arquivo .rar em seu computador e faça a descompactação. Você pode utilizar o descompactador mais conveninete, mas ná sugerimos o [WinRAR](https://www.win-rar.com/).
 
 ### Camadas raster (GeoTIFF):
@@ -71,6 +72,8 @@ Para acessar as camadas, baixe o arquivo .rar em seu computador e faça a descom
     - 6.3.	Valor do serviço e déficit de polinização para os municípios paulistas considerando o cultivo do café
     - 6.4.	Valor do serviço e déficit de polinização para os municípios paulistas considerando o cultivo de citrus
     - 6.5.	Valor do serviço e déficit de polinização para os municípios paulistas considerando outros cultivos perenes
+	
+Financiamento: Programa [Biota Fapesp](https://fapesp.br/biota/)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
