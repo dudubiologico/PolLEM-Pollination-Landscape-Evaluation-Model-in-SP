@@ -1,6 +1,6 @@
 # PolLEM SP - Pollination Landscape Evaluation Model in São Paulo (Modelo de Avaliação da Polinização na Paisagem em São Paulo).
 
-<img align="right" width="250"  src="imagens/biotasintese.png">(https://biotasintese.iea.usp.br/pt/)
+[<img align="right" width="250"  src="imagens/biotasintese.png">](https://biotasintese.iea.usp.br/pt/)
 
 Autores
 Eduardo Freitas Moreira&sup1; *, Luara Tourinho&sup1; , Rafael Chaves&sup2; , Danilo Boscolo&sup1;&sup3;
