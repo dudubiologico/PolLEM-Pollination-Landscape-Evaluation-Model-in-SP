@@ -71,7 +71,7 @@ Onde 〖VPdef〗_ij corresponde ao valor monetário do déficit de serviço de p
 
 
 ###Arquivos
-Os arquivos de entrada, os produtos intermediários, bem como os resultados finais do POLLEM disponíveis na base de dados estão listados abaixo.
+Os arquivos de entrada, os produtos intermediários, bem como os resultados finais do PolLEM disponíveis na base de dados estão listados abaixo.
 
 ###Camadas raster (GeoTIFF):
 1.	Camadas de base
@@ -136,9 +136,10 @@ Lang, N., Jetz, W., Schindler, K. and Wegner, J.D., 2023. A high-resolution cano
 
 Siopa, C., Carvalheiro, L.G., Castro, H., Loureiro, J. and Castro, S., 2024. Animal‐pollinated crops and cultivars—A quantitative assessment of pollinator dependence values and evaluation of methodological approaches. Journal of Applied Ecology. [https://doi.org/10.1111/1365-2664.14634](https://doi.org/10.1111/1365-2664.14634)
 
+Stein, A., Gerstner, K. and Kreft, H., 2014. Environmental heterogeneity as a universal driver of species richness across taxa, biomes and spatial scales. Ecology letters, 17(7), pp.866-880. [https://doi.org/10.1111/ele.12277](https://doi.org/10.1111/ele.12277)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Stein, A., Gerstner, K. and Kreft, H., 2014. Environmental heterogeneity as a universal driver of species richness across taxa, biomes and spatial scales. Ecology letters, 17(7), pp.866-880. https://doi.org/10.1111/ele.12277
+
 
